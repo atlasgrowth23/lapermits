@@ -1,0 +1,538 @@
+{
+  "br_permits": [
+    {
+      "column_name": "id",
+      "data_type": "integer",
+      "is_nullable": "NO"
+    },
+    {
+      "column_name": "permitid",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "permitnumber",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "permittype",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "designation",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "projectdescription",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "squarefootage",
+      "data_type": "numeric",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "projectvalue",
+      "data_type": "numeric",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "permitfee",
+      "data_type": "numeric",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "creationdate",
+      "data_type": "timestamp without time zone",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "issueddate",
+      "data_type": "timestamp without time zone",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "address",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "streetaddress",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "city1",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "state1",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "zip",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "parishname",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "ownername",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "applicantname",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "contractorname",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "contractoraddress",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "lat",
+      "data_type": "numeric",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "long",
+      "data_type": "numeric",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "geolocation",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "lotnumber",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "subdivision",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "created_at",
+      "data_type": "timestamp without time zone",
+      "is_nullable": "YES"
+    }
+  ],
+  "nola2_permits": [
+    {
+      "column_name": "id",
+      "data_type": "integer",
+      "is_nullable": "NO"
+    },
+    {
+      "column_name": "address",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "owner",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "description",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "numstring",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "isclosed",
+      "data_type": "boolean",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "type",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "code",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "division",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "m_s",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "filingdate",
+      "data_type": "timestamp without time zone",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "issuedate",
+      "data_type": "timestamp without time zone",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "currentstatus",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "nextstatus",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "currentstatusdate",
+      "data_type": "timestamp without time zone",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "nextstatusdate",
+      "data_type": "timestamp without time zone",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "landuse",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "landuseshort",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "unpaidfees",
+      "data_type": "numeric",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "totalfees",
+      "data_type": "numeric",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "bldgarea",
+      "data_type": "numeric",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "constrval",
+      "data_type": "numeric",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "bondamount",
+      "data_type": "numeric",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "opencomments",
+      "data_type": "numeric",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "applicant",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "totalinspections",
+      "data_type": "numeric",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "contractors",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "pin",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "beds",
+      "data_type": "numeric",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "baths",
+      "data_type": "numeric",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "secondfloo",
+      "data_type": "numeric",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "basementar",
+      "data_type": "numeric",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "daysopen",
+      "data_type": "numeric",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "daysissued",
+      "data_type": "numeric",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "leadagency",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "subdivision",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "councildist",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "zoning",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "location_1",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "historicdistrict",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "exitreason",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "projectname",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "heattype",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "created_at",
+      "data_type": "timestamp without time zone",
+      "is_nullable": "YES"
+    }
+  ],
+  "nola_permits_72f9_bi28": [
+    {
+      "column_name": "id",
+      "data_type": "integer",
+      "is_nullable": "NO"
+    },
+    {
+      "column_name": "permitnum",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "description",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "applieddate",
+      "data_type": "timestamp without time zone",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "issuedate",
+      "data_type": "timestamp without time zone",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "completedate",
+      "data_type": "timestamp without time zone",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "statuscurrent",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "originaladdress1",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "originalcity",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "originalstate",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "originalzip",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "permitclass",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "workclass",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "permittype",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "permittypedesc",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "statusdate",
+      "data_type": "timestamp without time zone",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "totalsqft",
+      "data_type": "numeric",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "link",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "location",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "estprojectcost",
+      "data_type": "numeric",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "pin",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "contractorcompanyname",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "contractortrade",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "contractortrademapped",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "contractorlicnum",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "contractorstatelic",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "expiresdate",
+      "data_type": "timestamp without time zone",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "coissueddate",
+      "data_type": "timestamp without time zone",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "publisher",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "fee",
+      "data_type": "numeric",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "workclassmapped",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "permitclassmapped",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "permittypemapped",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "statuscurrentmapped",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "column_name": "created_at",
+      "data_type": "timestamp without time zone",
+      "is_nullable": "YES"
+    }
+  ]
+}

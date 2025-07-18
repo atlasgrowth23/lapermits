@@ -1,0 +1,534 @@
+=== PAGE 1 (embedded) ===
+1641 POLAND AVENUE
+NEW ORLEANS, LA 70117
+WWW.ORLEANSSTEEL.COM
+504.381.5790
+CATALOG
+PRICE
+v3.14p
+
+=== PAGE 2 (embedded) ===
+GATES
+Gate Type 1 $189.00
+Size : 46" H x 42.5" W
+Door Frame : 1 1/2" sq, 11GA
+Cross Bar : 1 1/2*3/4in, 18GA
+Vertical Bar : 3/4" sq, 16GA; Gap 4in
+Material : Galvanized material, the
+powder coated black color
+Cap : 9
+Gate Type 2 $211.00
+Size : 70" H x 42.5" W
+Door Frame : 1 1/2" sq, 11GA
+Cross Bar : 1 1/2*3/4in, 18GA
+Vertical Bar : 3/4" sq, 16GA; Gap 4in
+Material : Galvanized material, the
+powder coated black color
+Cap : 9
+Gate Type 3 $259.00
+Size : 82" H x 42.5" W
+Door Frame : 1 1/2" sq, 11GA
+Cross Bar : 1 1/2*3/4in, 18GA
+Vertical Bar : 3/4" sq, 16GA; Gap 4in
+Material : Galvanized material, the
+powder coated black color
+Cap : 9
+v3.14p
+
+=== PAGE 3 (embedded) ===
+GATES
+Gate Type 4 $275.00
+Size : 70" H x 66.5" W
+Door Frame : 1 1/2" sq, 11GA
+Cross Bar : 1 1/2*3/4in, 18GA
+Vertical Bar : 3/4" sq, 16GA; Gap 4in
+Galvanized material, the
+Material :
+powder coated black color
+Cap : 16
+Gate Type 5 (Pair) $659.00
+70" H(lowest), 82"
+Size : H(highest) x 60" W (per
+panel)
+Door Frame : 1 1/2" sq, 11GA
+Cross Bar : 1 1/2*3/4in, 18GA
+Vertical Bar : 3/4" sq, 16GA; Gap 4in
+Galvanized material, the
+Material :
+powder coated black color
+Cap : 14/28
+v3.14p
+
+=== PAGE 4 (embedded) ===
+FENCE
+Fence Type 1 $129.00
+Size : 46" H x 91.5" W
+Cross Bar : 1 1/2*3/4in, 18GA
+Vertical Bar : 3/4" sq, 16GA; Gap 4in
+Material : Galvanized material, the
+powder coated black color
+Cap : 23
+Fence Type 2 $166.00
+Size : 70" H x 91.5" W
+Cross Bar : 1 1/2*3/4in, 18GA
+Vertical Bar : 3/4" sq, 16GA; Gap 4in
+Material : Galvanized material, the
+powder coated black color
+Cap : 23
+Fence Type 3 $166.00
+Size : 70" H x 90" W
+Cross Bar : 1 1/2*3/4in, 18GA
+Vertical Bar : 3/4" sq, 16GA; Gap 4in
+Material : Galvanized material, the
+powder coated black color
+Cap : 23
+Fence Type 4 $199.00
+Size : 90" H x 90" W
+Cross Bar : 1 1/2*3/4in, 18GA
+Vertical Bar : 3/4" sq, 16GA; Gap 4in
+Material : Galvanized material, the
+powder coated black color
+Cap : 23
+v3.14p
+
+=== PAGE 5 (embedded) ===
+FENCE - PRESSED POINT - 1"
+Fence Type 5 $86.25
+Size : 45" H x 90" W
+Cross Bar : 1 1/2" sq, 16GA
+Vertical Bar : 3/4" sq, 18GA; Gap 4in
+Top : 6"height
+Material : Galvanized material, the
+powder coated black color
+Fence Type 6 $112.12
+Size : 58" H x 90" W
+Cross Bar : 1 1/2" sq, 16GA
+Vertical Bar : 3/4" sq, 18GA; Gap 4in
+Top : 6"height
+Material : Galvanized material, the
+powder coated black color
+Promotion
+Fence Type 7 $149.00 $99.00
+Size : 70" H x 93" W
+Cross Bar : 1 1/2" sq, 14GA
+Vertical Bar : 3/4" sq, 16GA; Gap 4in
+Top : 6"height
+Material : Galvanized material, the
+powder coated black color
+Fence Type 8 $198.37
+Size : 93" H x 93" W
+Cross Bar : 1 1/2" sq, 16GA
+Vertical Bar : 3/4" sq, 16GA; Gap 4in
+Top : 8"height
+Material : Galvanized material, the
+powder coated black color
+Double Rail
+v3.14p
+
+=== PAGE 6 (embedded) ===
+FENCE - PRESSED POINT - 2"
+Fence Type 9 $183.94
+Size : 93" H x 93" W
+Cross Bar : 2" sq, 16GA
+Vertical Bar : 1" sq, 14GA; Gap 4in
+Top : 8"height
+Material : Galvanized material, the
+powder coated black color
+v3.14p
+
+=== PAGE 7 (embedded) ===
+FENCE - SECURITY ARCH SPIKE
+Fence Type 10 $137.94
+Size : 70" H x 94" W
+Cross Bar : 1 1/2" sq, 14GA
+Vertical Bar : 3/4" sq, 16GA; Gap 4in
+Material : Galvanized material, the
+powder coated black color
+Fence Type 11 $232.87
+Size : 93" H x 93" W
+Cross Bar : 2" sq, 16GA
+Vertical Bar : 1" sq, 14GA; Gap 4in
+Material : Galvanized material, the
+powder coated black color
+v3.14p
+
+=== PAGE 8 (embedded) ===
+FENCE - HAND RAIL
+Fence Type 12 $74.17
+Size : 34" H x 90" W
+Cross Bar : 1 1/2" sq, 16GA
+Vertical Bar : 3/4" sq, 18GA; Gap 4in
+Material : Galvanized material, the
+powder coated black color
+Fence Type 13 $86.25
+Size : 45" H x 90" W
+Cross Bar : 1 1/2" sq, 16GA
+Vertical Bar : 3/4" sq, 18GA; Gap 4in
+Material : Galvanized material, the
+powder coated black color
+Fence Type 14 $112.12
+Size : 58" H x 90" W
+Cross Bar : 1 1/2" sq, 16GA
+Vertical Bar : 3/4" sq, 18GA; Gap 4in
+Material : Galvanized material, the
+powder coated black color
+v3.14p
+
+=== PAGE 9 (embedded) ===
+FENCE - HAND RAIL WITH KNUCKLE
+Fence Type 15 $74.17
+Size : 34" H x 90" W
+Cross Bar : 1 1/2" sq, 16GA
+Vertical Bar : 3/4" sq, 18GA; Gap 4in
+Material : Galvanized material, the
+powder coated black color
+Fence Type 16 $86.25
+Size : 45" H x 90" W
+Cross Bar : 1 1/2" sq, 16GA
+Vertical Bar : 3/4" sq, 18GA; Gap 4in
+Material : Galvanized material, the
+powder coated black color
+Fence Type 17 $112.12
+Size : 58" H x 90" W
+Cross Bar : 1 1/2" sq, 16GA
+Vertical Bar : 3/4" sq, 18GA; Gap 4in
+Material : Galvanized material, the
+powder coated black color
+v3.14p
+
+=== PAGE 10 (embedded) ===
+FENCE - ADJUSTABLE HAND RAIL
+Fence Type 18 $86.25
+Size : 45" H x 90" W
+Cross Bar : 1 1/2" sq, 16GA
+Vertical Bar : 3/4" sq, 18GA; Gap 4in
+Material : Galvanized material, the
+powder coated black color
+Fence Type 19 $112.12
+Size : 58" H x 90" W
+Cross Bar : 1 1/2" sq, 16GA
+Vertical Bar : 3/4" sq, 18GA; Gap 4in
+Material : Galvanized material, the
+powder coated black color
+Fence Type 20 $138.00
+Size : 70" H x 94" W
+Cross Bar : 1 1/2" sq, 16GA
+Vertical Bar : 3/4" sq, 18GA; Gap 4in
+Material : Galvanized material, the
+powder coated black color
+v3.14p
+
+=== PAGE 11 (embedded) ===
+FENCE - HORIZONTAL
+Fence Type 21 $345.00
+Size : 70" H x 93" W
+Cross Bar : 4"H
+Gap : 3/4"H
+Material : Galvanized material, the
+powder coated black color
+Fence Type 22 $345.00
+Size : 70" H x 93" W
+Cross Bar : 4"H
+Gap : 3/4"H
+Material : Galvanized material, the
+powder coated brown color
+v3.14p
+
+=== PAGE 12 (embedded) ===
+FENCE POST
+Fence Post - 11Ga
+2x2x72 $28.80 3x3x72 $40.80 4x4x192 $115.44
+2x2x96 $38.40 3x3x96 $53.52 4x4x236 $144.30
+2x2x192 $62.40 3x3x192 $94.56
+2x2x236 $78.00 3x3x236 $118.20
+Fence Post - 14Ga - W/ Cap & Base Fence Post - 14Ga - W/ Cap
+2.5 x 2.5 x 74 $25.00 2.5 x 2.5 x 96 $25.00
+2.5 x 2.5 x 62 $26.95 2.5 x 2.5 x 84 $26.95
+3 x 3 x 74 $33.00 2.5 x 2.5 x 62 $28.00
+Black Post
+3 x 3 x 96 $33.00
+Brown Post
+Fence Post - 16Ga - W/ Cap & Base Fence Post - 16Ga - W/ Cap
+2 x 2 x 96 $14.00 2.5 x 2.5 x 74 $21.18
+2 x 2 x 49 $18.00
+v3.14p
+
+=== PAGE 13 (embedded) ===
+ACCESSORIES - FINIALS
+Finial Post Sizes
+Fleur de Lis $2.16 Cap
+2x2 $1.50
+3x3 $2.00
+4x4 $3.00
+Finial Post
+Triad $2.25 Insert
+3/4x3/4 $0.12
+2x2 $0.45
+3x3 $0.79
+4x4 $2.55
+Finial Post
+Quad $2.25 Ball Cap
+3/4x3/4 $0.75
+2x2 $2.00
+3x3 $3.00
+4x4 $4.00
+Finial
+Ball Quad $2.25
+SM - Solid - Privacy SM - Screen - Privacy
+59" x 94" 59" x 94"
+Galvanized Black Galvanized Black
+$55.00 $55.00
+v3.14p
+
+=== PAGE 14 (embedded) ===
+ACCESSORIES
+Fence Bracket $0.99 Tube Fence Bracket - 11Ga Post Plate - 6 Ga
+w/ Screw
+$3.13 Sizes
+4x4 $2.00
+5x5 $3.00
+6x6 $4.00
+Gate Latch $8.00 Gate Lock $18.00 Gate Latch-360 $12.00
+Combination
+Heavy Duty Heavy Duty
+Gate Hinge - 6" $24.99 Gate Wheel - 4" $39.99 Wedge Hinge $1.25
+Cane Bolt $19.99 L-Bracket $0.55
+Colors 2x2 14Ga
+Black
+Stainless Steel
+v3.14p
+
+=== PAGE 15 (embedded) ===
+TEMPORARY FENCING
+Fence Panel - 6'H x 12'W $149.95
+Fence Stand $14.99
+Fence Bracket $2.99
+Privacy Screen 6'H x 50'W $49.95
+*See store for rental details.
+v3.14p
+
+=== PAGE 16 (embedded) ===
+ANCHORS
+Wedge Anchor Bolt
+1/2-13 x 5 1/2" $1.25 3/4 x 5 1/2" $2.99 3/8 x 3" $0.97
+Stainless Steel / Zinc Zinc Zinc
+Mobile Home $6.89
+Size: 5/8" x 30" W/ nut
+Asphalt $6.89
+Size: 5/8" x 30" W/ 1 bolt, 1 nut, 2 washers
+Rebar $2.80
+Size: 30" x .5"Dia
+v3.14p
+
+=== PAGE 17 (embedded) ===
+R-PANELS
+R-Panel roofing is a metal roof made of 36” metal panels that have raised ribs with a flat area between the ribs. R-
+Panel is used in both residential and commercial applications and can also be used as siding.
+Low Profile
+High Profile
+Galvalume Polar White Evergreen
+26Ga - $3.50 26Ga - $3.75 26Ga - $3.75
+24Ga - $4.25 H. Profile H. Profile
+H. Profile L. Profile L. Profile
+L. Profile
+Black Hawaiian Blue
+26Ga - $3.75 26Ga - $3.75
+H. Profile H. Profile
+L. Profile L. Profile
+Old Town Gray Rustic Red
+26Ga - $3.75 26Ga - $3.75
+H. Profile H. Profile
+L. Profile L. Profile
+* Prices may vary. See store for details. Prices based per linear foot.
+v3.14p
+
+=== PAGE 18 (embedded) ===
+TRIM
+Available Colors:
+Galvalume Black Old Town Rustic Red Polar Hawaiian Evergreen
+Gray White Blue
+Corner - Inside Corner - Outside
+$32.06 $30.66
+J Flashing Long Drip Edge
+$22.26 $29.26
+Gable / Rake
+$29.26 RidgeCap $30.66
+Valley
+$30.66
+* Pricing is based per 10' section.
+v3.14p
+
+=== PAGE 19 (embedded) ===
+SCREWS
+Galvalume Black Old Town Rustic Polar Hawaiian Evergreen
+Gray White Blue
+Hex Self Drilling Screw - 1/4 - 14* 7/8 Hex Self Drilling Screw - #12-14* 1-1/4
+Galvalume $37.99 250pc Galvalume $37.99 250pc
+Hawaiian Blue $37.99 250pc Hawaiian Blue $37.99 250pc
+Rustic Red $37.99 250pc Rustic Red $37.99 250pc
+Polar White $37.99 250pc Polar White $37.99 250pc
+Old Town Gray $37.99 250pc Old Town Gray $37.99 250pc
+Black $37.99 250pc Black $37.99 250pc
+Evergreen $37.99 250pc Evergreen $37.99 250pc
+Hex Washer Head - #12-14* 3/4 Hex Washer Head - #12-14* 3/4
+w/ 14mm washer Galvalume $29.99 250pc w/o washer $29.99 600pc
+Horn Head Self Drilling Screw - #6-20* 1-1/4 $24.99 700pc Rnd Head Self Drilling Screw - #8-18* 1/2 $39.99 1200pc
+Hex Self Drilling Screw - #12-24* 1-1/4 Hex Self Drilling Screw - #10-16* 3/4 $29.99 600pc
+Hawaiian Blue $59.99 450pc
+v3.14p
+
+=== PAGE 20 (embedded) ===
+SILICONE & CAULKING TAPE
+Silicone-10.1oz $5.25 Caulking Tape - 3/8 x 3/32 x 45' $4.50
+FOAM CLOSURES
+R-Panel Inside / Outside High Profile $1.21 R-Panel Inside / Outside Low Profile $1.21
+A foam closure is a dense foam strip used to
+seal the joints between metal panels on a
+roof. They are typically 1 inch thick and 1–2
+inches wide, and are cut to match the length
+of the metal panel.
+WELDING GLUE
+Epoxy Adhesive $8.99 1.67oz Casting Rubber 17.6oz
+Part A $24.99 Part B $24.99
+Epoxy adhesive is a structural adhesive that's made from a mixture of resin and hardener that creates a strong,
+durable bond.
+v3.14p
+
+=== PAGE 21 (embedded) ===
+DOORS / WINDOW / ACCESSORIES
+36W x 80H Door $195.00
+36W x 80H Door w/ diamond window $195.00
+Walk-in door lock $12.95
+Can not be sold separate.
+24 x 36 Grid Window $39.00
+v3.14p
+
+=== PAGE 22 (embedded) ===
+ROLL DOOR
+9W x 8H W/ Door Kit $715.00
+10W x 8H W/ Door Kit $760.50
+10W x 10H W/ Door Kit $916.50
+12W x 12H W/ Chain Hoist $1,553.50
+v3.14p
+
+=== PAGE 23 (embedded) ===
+STRUCTURAL STUDS & TRACKS
+362S162-33 3 5/8" Stud 20G $1.24 362T200-33 3 5/8" Track 10 FT 20G $9.00
+362S162-43 3 5/8" Stud 18G $1.60 362T200-43 3 5/8" Track 10 FT 18G $14.60
+362S162-54 3 5/8" Stud 16G $1.99 362T200-54 3 5/8" Track 10 FT 16G $18.30
+362S162-68 3 5/8" Stud 14G $2.48 362T200-68 3 5/8" Track 10 FT 14G $23.00
+362S162-97 3 5/8" Stud 12G $3.45 362T200-97 3 5/8" Track 10 FT 12G $32.70
+600S162-33 6" Stud 20G $1.63 600T200-33 6" Track 10 FT 20G $16.40
+600S162-43 6" Stud 18G $2.11 600T200-43 6" Track 10 FT 18G $19.70
+600S162-54 6" Stud 16G $2.63 600T200-54 6" Track 10 FT 16G $24.70
+600S162-68 6" Stud 14G $3.29 600T200-68 6" Track 10 FT 14G $31.10
+600S162-97 6" Stud 12G $4.60 600T200-97 6" Track 10 FT 12G $47.80
+800S162-33 8" Stud 20G $1.96 800T200-33 8" Track 10 FT 20G $19.70
+800S162-43 8" Stud 18G $2.54 800T200-43 8" Track 10 FT 18G $24.00
+800S162-54 8" Stud 16G $3.17 800T200-54 8" Track 10 FT 16G $30.10
+800S162-68 8" Stud 14G $3.97 800T200-68 8" Track 10 FT 14G $37.90
+800S162-97 8" Stud 12G $5.57 800T200-97 8" Track 10 FT 12G $57.50
+1000S162-43 10" Stud 18G $2.97 1000T200-43 10" Track 10 FT 18G $28.30
+1000S162-54 10" Stud 16G $3.71 1000T200-54 10" Track 10 FT 16G $35.50
+1000S162-68 10" Stud 14G $4.65 1000T200-68 10" Track 10 FT 14G $44.60
+1000S162-97 10" Stud 12G $6.54 1000T200-97 10" Track 10 FT 12G $63.50
+1200S162-54 12" Stud 16G $4.25 1200T200-54 12" Track 10 FT 16G $40.90
+1200S162-68 12" Stud 14G $5.33 1200T200-68 12" Track 10 FT 14G $51.40
+1200S162-97 12" Stud 12G $7.51 1200T200-97 12" Track 10 FT 12G $73.70
+* Prices may vary. See store for details. * Prices may vary. See store for details.
+Prices based per linear foot. Prices based per piece.
+v3.14p
+
+=== PAGE 24 (embedded) ===
+NON-STUCTURAL STUDS & TRACKS
+162S125-18 1 5/8" Stud 25G $0.38 162T125-18 1 5/8" Track 10 FT 25G $3.60
+162S125-27 1 5/8" Stud 22G $0.57 162T125-27 1 5/8" Track 10 FT 22G $5.50
+162S125-30 1 5/8" Stud 20G $0.62 162T125-30 1 5/8" Track 10 FT 20G $6.00
+250S125-18 2 1/2" Stud 25G $0.46 250T125-18 2 1/2" Track 10 FT 25G $4.40
+250S125-27 2 1/2" Stud 22G $0.68 250T125-27 2 1/2" Track 10 FT 22G $6.70
+250S125-30 2 1/2" Stud 20G $0.75 250T125-30 2 1/2" Track 10 FT 20G $7.30
+362S125-18 3 5/8" Stud 25G $0.56 362T125-18 3 5/8" Track 10 FT 25G $5.40
+362S125-27 3 5/8" Stud 22G $0.82 362T125-27 3 5/8" Track 10 FT 22G $8.20
+362S125-30 3 5/8" Stud 20G $0.92 362T125-30 3 5/8" Track 10 FT 20G $9.00
+600S125-18 6" Stud 25G $0.77 600T125-18 6" Track 10 FT 25G $7.60
+600S125-27 6" Stud 22G $1.15 600T125-27 6" Track 10 FT 22G $11.40
+600S125-30 6" Stud 20G $1.27 600T125-30 6" Track 10 FT 20G $12.50
+* Prices may vary. See store for details. * Prices may vary. See store for details.
+Prices based per linear foot. Prices based per piece.
+v3.14p
+
+=== PAGE 25 (embedded) ===
+CHANNELS
+Hat Channel
+1 1/2 x 21' 18Ga $20.00
+7/8 x 21' 18Ga $18.00
+Cee Channel - 10' $8.00
+1.5" x .5" 16G
+Cee Channel - 16' $14.00
+1.5" x .5" 16G
+v3.14p
+
+=== PAGE 26 (embedded) ===
+RAW METAL
+Sheet Metal - 48" x 96"
+1/8 $161.10 Diamond Plate
+1/4 $468.00
+3/16 $309.00
+Gavanized Sheet Metal
+16Ga $85.50
+Angle Iron - 20'
+1/8 1 x 1 $17.04
+1/8 1.5 x 1.5 $24.96
+1/8 2 x 2 $30.24
+1/4 1.5 x 1.5 $42.48
+1/4 2 x 2 $56.16
+1/4 3 x 3 $99.84
+3/8 4 x 4 $127.68
+Square Bar - Solid - 20' Flat Bar - Solid - 20'
+.5 x .5 $18.30 1 x .25 $18.24
+GALVANIZED METAL
+11Ga Galvanized tubing - 20' 16Ga Galvanized tubing - 20'
+5/8 x 5/8 $12.48 .5 x .5 $10.80
+3/4 x 3/4 $18.24
+1 x 1 $22.56
+1.25 x 1.25 $40.80 1/4 Galvanized tubing - 20'
+2 x 2 $71.04 4 x 4 $218.64
+3 x 3 $112.32
+4 x 4 $141.12
+14Ga Galvanized tubing - 20'
+1.5 x 1.5 $43.75
+2 x 2 $44.88
+2 1/4 x 2 1/4 $46.98
+2 1/2 x 2 1/2 $50.98
+3 x 3 $74.64
+v3.14p
+
+=== PAGE 27 (embedded) ===
+COATINGS
+Rust Transform Paint 44 lbs $200.00
+* Transforms, converts and replaces existing rust with a dark
+protective barrier. Prevents future corrosion.
+* Forms a durable protective barrier. Locks out moisture from
+rain and snow. Protects iron and metal surfaces.
+* Non-toxic and fumeless. Paintable when fully cured.
+* Easy application with roller, brush or airless sprayer.
+*Covers 2000 sq ft
+Flexible Slurry 44 lbs $150.00
+* Forms a continuous barrier with exceptional adhesion and
+reduces crack transmission for all surfaces.
+* Can be applied on Concrete, Wood, Stone, Tiles, Metal
+Aluminum, Interior/Exterior Cladding, and ICF Blocks
+* For interior, exterior, fully submerged in water and below
+grade applications.
+* Easy application with roller, brush or airless sprayer.
+*Covers 290 sq ft - double coat recommended.
+Thermal Insulation 44 lbs $150.00
+* Thermal insulating coating is a liquid suitable for application
+to a surface, that dries or cures to simultaneously form a
+protective finish and provide resistance to heat flow.
+* Retains heat over twice as long as ordinary emulsion paint.
+* An airless sprayer is the best method for application of the
+coating.
+*Covers 430 sq ft
+v3.14p
+
